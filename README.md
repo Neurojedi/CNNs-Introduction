@@ -1,4 +1,4 @@
-# CNNs-Introduction (Under Construction)
+# CNNs-Introduction 
 
 This repository is a curated collection of Jupyter notebooks that serve as a comprehensive guide to understanding Convolutional Neural Networks (CNNs). Beginning with foundational concepts and parameters, the notebooks progressively dive into the intricacies of popular CNN architectures. Starting with LeNet-5 and advancing through AlexNet, Network in Network (NiN), and VGG, each notebook seamlessly blends theoretical insights with hands-on exercises. Whether you're a newcomer to CNNs or an enthusiast looking to deepen your knowledge, these notebooks provide an engaging learning experience that bridges theory and practice.
 
