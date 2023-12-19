@@ -68,7 +68,7 @@ class IdentityBlock(tf.keras.layers.Layer):
         x = self.relu3(x)
         return x
 
-
+#ResNET50 Implementation
 class ResNet50(tf.keras.models.Model):
     def __init__(self, input_shape=(224, 224, 3), num_classes=1000):
         super(ResNet50, self).__init__()
